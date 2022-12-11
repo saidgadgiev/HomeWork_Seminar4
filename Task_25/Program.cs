@@ -28,6 +28,6 @@ int CorectNumbers(string messege)
 
 int numA = CorectNumbers("Enter a number A -> ");
 int numB = CorectNumbers("Enter a number B -> ");
-double summ = Math.Pow(numA, numB);
+double result = Math.Pow(numA, numB);
 
-Console.WriteLine(summ);
+Console.WriteLine(result);
