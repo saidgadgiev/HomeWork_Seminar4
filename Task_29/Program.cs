@@ -6,5 +6,3 @@
 6, 1, 33 -> [6, 1, 33]
 */
 
-int n = [2];
-Console.WriteLine(n);
